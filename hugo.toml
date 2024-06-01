@@ -1,9 +1,8 @@
-baseURL = 'https://systemcoding.github.io'
+baseURL = 'https://systemcoding.github.io/'
 languageCode = 'en-us'
 title = 'That404Nerd'
 theme = 'hugo-papermod'
-pygmentsUseClasses=true
-pygmentsCodeFences=true
+publishDir = "docs"
 
 [menu]
   [[menu.main]]
