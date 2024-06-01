@@ -2,11 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on That404Nerd</title>
-    <link>https://systemcoding.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on That404Nerd</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://systemcoding.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 May 2024 13:42:59 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freeze Engine v0.4</title>
+      <link>http://localhost:1313/posts/engine2d/</link>
+      <pubDate>Fri, 31 May 2024 13:42:59 +0530</pubDate>
+      <guid>http://localhost:1313/posts/engine2d/</guid>
+      <description>Hey everyone! It&amp;rsquo;s been quite some time since I talked about my 2D Engine. This release isn&amp;rsquo;t anything big but I think it&amp;rsquo;s a pretty good one since the start of the engine. I am planning on adding more features to the engine (for v0.5). Let&amp;rsquo;s get into what&amp;rsquo;s new and some problems as well.
+New Features Let&amp;rsquo;s start with some new stuff, there aren&amp;rsquo;t much but these will do:</description>
+    </item>
   </channel>
 </rss>
