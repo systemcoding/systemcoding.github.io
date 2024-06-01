@@ -80,4 +80,4 @@ For audio I am using [Soloud](https://github.com/jarikomppa/soloud). Some may re
 - Extend the Physics API
 - Bug fixes (if found)
 
-Hey! Thanks for stopping by, really appreciate that you read the blog post. If you want to try the engine for yourself, checkout the [GitHub page](https://github.com/systemcoding/Freeze-Engine) or visit the [Links](/links) page. This is my first post so I won't expect it to be good. Any problems can be reported through my email. Please check out my YouTube channel for more content related to the engine and Linux stuff. Have a good day!
+Hey! Thanks for stopping by, really appreciate that you read the blog post. If you want to try the engine for yourself, checkout the [GitHub page](https://github.com/that404nerd/Freeze-Engine) or visit the [Links](/links) page. This is my first post so I won't expect it to be good. Any problems can be reported through my email. Please check out my YouTube channel for more content related to the engine and Linux stuff. Have a good day!
