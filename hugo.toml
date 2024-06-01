@@ -1,0 +1,19 @@
+baseURL = 'https://systemcoding.github.io'
+languageCode = 'en-us'
+title = 'That404Nerd'
+theme = 'hugo-papermod'
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "links"
+    name = "Links"
+    url = "/links"
+    weight = 20
